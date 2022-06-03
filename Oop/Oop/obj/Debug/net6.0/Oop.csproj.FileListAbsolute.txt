@@ -1,0 +1,15 @@
+C:\Users\jafapour\OopExmple\Oop\Oop\bin\Debug\net6.0\Oop.exe
+C:\Users\jafapour\OopExmple\Oop\Oop\bin\Debug\net6.0\Oop.deps.json
+C:\Users\jafapour\OopExmple\Oop\Oop\bin\Debug\net6.0\Oop.runtimeconfig.json
+C:\Users\jafapour\OopExmple\Oop\Oop\bin\Debug\net6.0\Oop.dll
+C:\Users\jafapour\OopExmple\Oop\Oop\bin\Debug\net6.0\Oop.pdb
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.csproj.AssemblyReference.cache
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.AssemblyInfoInputs.cache
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.AssemblyInfo.cs
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.csproj.CoreCompileInputs.cache
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.dll
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\refint\Oop.dll
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.pdb
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\Oop.genruntimeconfig.cache
+C:\Users\jafapour\OopExmple\Oop\Oop\obj\Debug\net6.0\ref\Oop.dll
